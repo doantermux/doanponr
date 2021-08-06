@@ -94,7 +94,7 @@ $key2 = file_get_contents('https://pastebin.com/raw/tFTQLxFz');
 for($v=0;$v<= 12;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
 echo $luc."Chịu Khó Vượt Link Tôi Sẽ Không Làm Bạn Thất vọng\n";
 for($v=0;$v<= 12;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
-echo $luc."Link Lấy Key Free:$trang https://link1s.com/GibC\n";
+echo $luc."Link Lấy Key Free:$trang http://bblink.com/key24h\n";
 for($v=0;$v<= 12;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
 for($j = 4;$j> 0;$j--){
   echo $luc."Chuyển Hướng Đến Trang Lấy Key Sau: $do [$den $j$do ]";
@@ -102,7 +102,7 @@ for($j = 4;$j> 0;$j--){
   echo "\r";
   echo "                                          \r";
 }
-system("termux-open-url https://link1s.com/GibC");
+system("termux-open-url http://bblink.com/key24h");
 echo $luc."Nhập Key: $vang";
 $nhapkey = trim(fgets(STDIN));
 if ($nhapkey == $key1){
