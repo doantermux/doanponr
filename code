@@ -151,20 +151,7 @@ echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m3.\033[1;32mTool Tuongta
 echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m4.\033[1;32mTool Tuongtaccheo \033[1;91m[\e[0;90mĐa Cookie\033[1;91m]\033[1;37m┃\n";
 echo "         \033[1;37m┃                                 \033[1;37m    ┃\n";                          
 echo "         \033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃ \n";
-echo "         \033[1;37m┃\033[37mTiện Ich Facebook\033[0m\033[1;37m                    ┃\n";
-echo "         \033[1;37m┃                                 \033[1;37m    ┃\n";                          
-echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m5.\033[1;32mTool Nuôi Facebook \033[1;91m[\e[0;90mOnline\033[1;91m]\033[1;37m  ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m6.\033[1;32mTool Tương Tác   \033[1;91m[\e[0;90mBảng Tin\033[1;91m]\033[1;37m  ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m7.\033[1;32mTool Tương Tác   \033[1;91m[\e[0;90m1 Người\033[1;91m]\033[1;37m   ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m8.\033[1;32mTool UnFollow    \033[1;91m[\e[0;90mOnline\033[1;91m]\033[1;37m    ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m9.\033[1;32mTool UnPage      \033[1;91m[\e[0;90mOnline\033[1;91m]\033[1;37m    ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m10.\033[1;32mTool Lọc Bạn bè  \033[1;91m[\e[0;90mOnline\033[1;91m]\033[1;37m    ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m11.\033[1;32mTool Thêm Bạn bè \033[1;91m[\e[0;90mĐề Xuất\033[1;91m]\033[1;37m   ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m12.\033[1;32mTool Comment     \033[1;91m[\e[0;90mBảng Tin\033[1;91m]\033[1;37m  ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m13.\033[1;32mTool Comment ND Cho Trc\033[1;91m[\e[0;90m1Id\033[1;91m]\033[1;37m ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m14.\033[1;32mTool Comment     \033[1;91m[\e[0;90mKèm Ảnh\033[1;91m]\033[1;37m   ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m15.\033[1;32mTool Bật Khiên Avt \033[1;91m[\e[0;90mOnline\033[1;91m]\033[1;37m  ┃\n";
-echo "         \033[1;37m┃ \033[1;33mNhập\033[1;97m15.\033[1;32mTool Buff Like   \033[1;91m[\e[0;90mĐa Luồng\033[1;91m]\033[1;37m  ┃\n";
+echo "         \033[1;37m┃ \033[1;33mNhập \033[1;97m5.\033[1;32mTool Buff Like   \033[1;91m[\e[0;90mĐa Luồng\033[1;91m]\033[1;37m  ┃\n";
 echo "         \033[1;37m┃                                 \033[1;37m    ┃\n";                          
 echo "         \033[1;37m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n";
 
@@ -192,38 +179,8 @@ if ($nhaptool2 == '1'){
 }else if ($nhaptool2 == '4'){
 eval(get('https://run.mocky.io/v3/75555ee4-af9a-43e2-98c8-007ccd7bf1d3'));
 	
+ 
 }else if ($nhaptool2 == '5'){
-eval(get('https://run.mocky.io/v3/7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '6'){
-eval(get('https://run.mocky.id2f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '7'){
-eval(get('https://run.mocky.i2ad2f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '8'){
-eval(get('https://run.mocky.io/aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '9'){
-eval(get('https://run.mocky2ad2f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-
-}else if ($nhaptool2 == '10'){
-eval(get('https://run.mocky.io/a18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '11'){
-eval(get('https://run.mocky.io/f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '12'){
-eval(get('https://run.mocky.io/f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '13'){
-eval(get('https://run.mocky2f7-aa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '14'){
-eval(get('https://run.mockeb2aaa18-4f45-8540-811ba7a8d5ea'));
-	
-}else if ($nhaptool2 == '15'){
 eval(get('https://run.mocky.io/v3/ba4d138c-594b-4336-807c-ddd7b8640717'));
 	
 
