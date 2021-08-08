@@ -50,7 +50,8 @@ $banner=
 \033[0;97m║\033[1;91m❥ \033[0;92mFb:\033[1;97mfacebook.com/doandinh2004        \033[1;97m          ║
 \033[0;97m╚════════════════════════════════════════════════╝\n";
  
-$key1 = file_get_contents('https://pastebin.com/raw/u9CtjrYZ');
+$key1 = file_get_contents('https://pastebin.com/raw/Da0WrC3r');
+//$key1 = file_get_contents('https://pastebin.com/raw/u9CtjrYZ');
 //$key1 = file_get_contents('https://pastebin.com/raw/5iH7jDAT');
 //$key1 = file_get_contents('https://pastebin.com/raw/50VcksZs');//5
 //$key1 = file_get_contents('https://pastebin.com/raw/PH6HAMi8');//3
