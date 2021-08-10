@@ -58,8 +58,8 @@ $banner=
 //$key1 = file_get_contents('https://pastebin.com/raw/50VcksZs');//5
 //$key1 = file_get_contents('https://pastebin.com/raw/PH6HAMi8');//3
 //$key1 = file_get_contents('https://pastebin.com/raw/MCbP2GMK');//
-//$key1 = file_get_contents('https://pastebin.com/raw/jHgdWqZJ');//
-$key1 = file_get_contents('https://pastebin.com/raw/CxHbcZG6');
+$key1 = file_get_contents('https://pastebin.com/raw/jHgdWqZJ');//2
+//$key1 = file_get_contents('https://pastebin.com/raw/CxHbcZG6');
 $key2 = file_get_contents('https://pastebin.com/raw/tFTQLxFz');
  
 @system('clear');
@@ -70,7 +70,7 @@ for($v=0;$v<= 10;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";u
 echo $luc."Chịu Khó Vượt Link Tôi Sẽ Không Làm Bạn Thất vọng\n";
 for($v=0;$v<= 10;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
 echo $luc."Link Lấy Key Free:$trang http://bblink.com/key24h\n";
-for($v=0;$v<= 10;$v++){ echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
+for($v=0;$v<= 10;$v++){ echo "\033[1;97m- ";sleep(15000); echo "\033[1;97m- ";usleep(15000); } echo "\033[1;97m- ";usleep(15000); echo "\033[1;97m-";usleep(15000); echo"\n";
 for($j = 4;$j> 0;$j--){
   echo $luc."Chuyển Hướng Đến Trang Lấy Key Sau: $do [$den $j$do ]";
   sleep(1);
