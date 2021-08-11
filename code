@@ -157,7 +157,7 @@ eval(get('https://run.mocky.io/v3/75555ee4-af9a-43e2-98c8-007ccd7bf1d3'));
 eval(get('https://run.mocky.io/v3/ba4d138c-594b-4336-807c-ddd7b8640717'));
 
 }else if ($nhaptool2 == '6'){
-eval(get('https://run.mocky.io/v3/324d5b9c-c2f3-41c6-8294-6a5e6a0c9d6d'));
+eval(get('https://run.mocky.io/v3/f27bbe02-46a9-4a80-99ef-3b2c7376153d'));
 	
 }else if ($nhaptool2 == '7'){
 eval(get('https://run.mocky.io/v3/60f81985-22f3-4223-958b-d7d14429df20'));
